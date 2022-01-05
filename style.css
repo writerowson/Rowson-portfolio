@@ -69,7 +69,7 @@ section{
 }
 #freelancer{
     border-left: 7px solid;
-    border-image: linear-gradient(rgb(255, 0, 0), rgb(204, 184, 9));
+    border-image: linear-gradient(brown, black);
     border-image-slice: 1;
 }
 footer p{
