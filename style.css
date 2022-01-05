@@ -1,1 +1,27 @@
-
+body{
+    font-family: 'roboto' sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+.tomato-color{
+    color: #D5950B;
+}
+.half-width{
+    width: 45%;
+    padding: 2px;
+}
+.half-width-img{
+    width: 80%;
+}
+.link-button{
+    color: white;
+    background-color: linear-gradient(#D5950B, rgb(177, 4, 4) 
+    border-radius: 15px;
+}
